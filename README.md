@@ -19,7 +19,7 @@ I am currently building foundational knowledge in programming, networking, and s
 
 You can view my complete portfolio document here:
 
-[Download My Portfolio](./FILE_NAME.pdf)
+[View My Portfolio](https://sites.google.com/moe-dl.edu.my/yoga-techportfolio/home)
 
 ---
 
